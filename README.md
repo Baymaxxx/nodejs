@@ -1,7 +1,8 @@
 ### nodejs
 ***
->- package.json
+#### package.json
 ***
+>
 * name-包名
 * version  包的版本号
 * description 包的描述
